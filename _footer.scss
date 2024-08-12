@@ -1,0 +1,19 @@
+footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 110px;
+        div{
+            background-color:#808D7C;
+            border-radius:20px;
+            width: 250px;
+                p{
+                    color: aliceblue;
+                    &:hover{
+                        color:red;
+                      
+                    }
+                }
+                
+        }
+}
